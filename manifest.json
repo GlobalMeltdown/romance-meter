@@ -1,0 +1,8 @@
+{
+  "display_name": "Romance Meter",
+  "author": "Global_Meltdown",
+  "version": "0.3",
+  "js": "script.js",
+  "css": "style.css",
+  "generate_interceptor": "romanceInterceptor"
+}
